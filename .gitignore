@@ -1,0 +1,17 @@
+*
+!*/
+!.gitignore
+!/**/.gitignore
+
+!/**/*.py
+!/**/*.ipynb
+
+/**/.*/**/*
+
+!Dockerfile
+!.gitlab-ci.yml
+!README.md
+!requirements.txt
+!.gitmodules
+!.env
+!.vscode/settings.json
